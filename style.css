@@ -1,0 +1,147 @@
+html {
+    background-color: #c4704f
+}
+/*c4704f*/
+h1 {
+    font-family: Indie Flower; 
+    color: #FFF5E1;
+    background-color: ; 
+    font-size: 40pt;
+    text-align: center;
+    font-weight: 700;
+}
+
+h2 {
+    font-family: Indie Flower; 
+    color: #FFF5E1;
+    background-color: ; 
+    font-size: 20pt;
+    text-align: center;
+    font-weight: 700; 
+}
+
+#howl {
+    font-family: Indie Flower; 
+    color: #FFF5E1;
+    background-color: ; 
+    font-size: 20pt;
+    text-align: left;
+    font-weight: 700;
+}
+
+#spirited {
+    font-family: Indie Flower; 
+    color: #FFF5E1;
+    background-color: ; 
+    font-size: 20pt;
+    text-align: left;
+    font-weight: 700;
+}
+
+#ponyo {
+    font-family: Indie Flower; 
+    color: #FFF5E1;
+    background-color: ; 
+    font-size: 20pt;
+    text-align: left;
+    font-weight: 700;
+}
+
+#p1 {
+    font-family: Indie Flower; 
+    color: #FFF5E1;
+    background-color: ; 
+    font-size: 15pt;
+    text-align: left;
+    font-weight: 700;
+}
+
+#p2 {
+    font-family: Indie Flower; 
+    color: #FFF5E1;
+    background-color: ; 
+    font-size: 15pt;
+    text-align: left;
+    font-weight: 700;
+}
+
+#p3 {
+    font-family: Indie Flower; 
+    color: #FFF5E1;
+    background-color: ; 
+    font-size: 15pt;
+    text-align: left;
+    font-weight: 700;
+}
+
+#howl-1 {                          
+    height: 250px;
+    width: 500px;
+    border: 15px solid #abcbcc;
+}
+
+#howl-2 {                          
+    height: 250px;
+    width: 500px;
+    border: 15px solid #abcbcc;
+}
+
+#howl-3 {                          
+    height: 250px;
+    width: 500px;
+    border: 15px solid #abcbcc;
+}
+
+#howl-4 {                          
+    height: 250px;
+    width: 500px;
+    border: 15px solid #abcbcc;
+}
+
+#spirit-1 {                          
+    height: 250px;
+    width: 500px;
+    border: 15px solid #360b0b;
+}
+
+#spirit-2 {                          
+    height: 250px;
+    width: 500px;
+    border: 15px solid #360b0b;
+}
+
+#spirit-3 {                          
+    height: 250px;
+    width: 500px;
+    border: 15px solid #360b0b;
+}
+
+#spirit-4 {                          
+    height: 250px;
+    width: 500px;
+    border: 15px solid #360b0b;
+}
+
+#ponyo-1 {                          
+    height: 250px;
+    width: 500px;
+    border: 15px solid #f0f17c;
+}
+
+#ponyo-2 {                          
+    height: 250px;
+    width: 500px;
+    border: 15px solid #f0f17c;
+}
+
+#ponyo-3 {                          
+    height: 250px;
+    width: 500px;
+    border: 15px solid #f0f17c;
+}
+
+#ponyo-4 {                          
+    height: 250px;
+    width: 500px;
+    border: 15px solid #f0f17c;
+}
